@@ -1,5 +1,6 @@
 package serviceController;
 
+import model.Costumer;
 import model.Employee;
 
 public class ServiceTest {
@@ -14,6 +15,15 @@ public class ServiceTest {
         int id = 2;
 
         cs.deleteCategory(id);*/
+
+        /*Costumer costumer = new Costumer();
+        CostumerService cs = new CostumerService();
+        cs.createCostumer(costumer);
+        cs.selectCostumer();
+        //       System.out.println("Ingrese el id del empleado");*/
+
+
+
 
         Employee employee = new Employee();
         EmployeeService es = new EmployeeService();

@@ -79,5 +79,4 @@ public class Costumer {
     public void setType(String type) {
         this.type = type;
     }
-
 }

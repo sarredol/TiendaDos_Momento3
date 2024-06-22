@@ -39,6 +39,7 @@ public class Employee {
     public void setEmployeeName(String employeeName) {
         this.employeeName = employeeName;
     }
+
     public String getLastName() {
         return lastName;
     }
@@ -78,6 +79,4 @@ public class Employee {
     public void setPosition(String position) {
         this.position = position;
     }
-
-
 }
